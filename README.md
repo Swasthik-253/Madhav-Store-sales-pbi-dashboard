@@ -5,7 +5,7 @@
 
 **Filters:** Users can filter data by State and Quarter (Q1–Q4) to view specific regional and quarterly performance.
 
-**Visualizations:**Profit by Region and Profit by Month charts show high-performing states and monthly profit trends.
+**Visualizations:** Profit by Region and Profit by Month charts show high-performing states and monthly profit trends.
 Quantity by Category and Profit by Sub-Category break down sales and profitability by product types.
 Sales by Customer and Quantity by Payment Mode offer insights into customer spending and popular payment methods.
 
